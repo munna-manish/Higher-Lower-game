@@ -21,3 +21,17 @@ The game shows you two items, "A" and "B," and you type "A" or "B" to guess whic
 4.  **Run the Game:** Type `python higherlowergame.py` and press Enter.
 
 ## Example
+A =  Albert Einstein, a Scientist, Germany
+B =  Bitcoin, a Cryptocurrency, Global
+Compare 'A' and 'B', guess which got more no.of searches this month: (Type A or B): b
+Yup! That's correct
+
+Your current score: 1
+
+
+
+A =  Bitcoin, a Cryptocurrency, Global
+B =  NASA, a Space Agency, USA
+Compare 'A' and 'B', guess which got more no.of searches this month: (Type A or B): ...
+
+The game continues in this way until your guess is incorrect.
